@@ -7,12 +7,13 @@
 |  	| [Scrivener](https://www.literatureandlatte.com/scrivener/download) 	| 长文写作 	|  	|
 |  	| [Bear](https://itunes.apple.com/cn/app/%E7%86%8A%E6%8E%8C%E8%AE%B0/id1091189122?mt=12) 	|  MarkDown 笔记工具 	|  订阅制	|
 |  	| [Chrome](https://www.google.com/chrome/thank-you.html?statcb=0&installdataindex=empty) 	| 浏览器 	|  Free	|
-|   | [Wechat](https://itunes.apple.com/cn/app/wechat/id836500024?l=en&mt=12) | 社交软件 | Free |
+|   | [WeChat](https://itunes.apple.com/cn/app/wechat/id836500024?l=en&mt=12) | 社交软件 | Free |
 |  	| [WeChat Work](https://itunes.apple.com/cn/app/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1/id1189898970?mt=12) 	|  办公社交	|  Free	|
 |  	| [Workflowy](https://workflowy.com/accounts/login/) 	|  	|  	|
-|  	| [ipic](https://itunes.apple.com/cn/app/ipic-image-upload-tool/id1101244278?l=en&mt=12)	| 图床管理 	| ¥60.00	|
-|  	| [TotalFinde](https://totalfinder.binaryage.com/) 	| 让 Finder 更好用 	|  	|
+|  	| [iPic](https://itunes.apple.com/cn/app/ipic-image-upload-tool/id1101244278?l=en&mt=12)	| 图床管理 	| ¥60.00	|
+|  	| [TotalFinder](https://totalfinder.binaryage.com/) 	| 让 Finder 更好用 	|  	|
 |   | [MacID](https://macid.co/) | 用手指解锁 Mac，需要配合 iOS app | $17.99 |
+|  	| [百度网盘](https://pan.baidu.com/download#pan) 	|  	|  Free	|
 | [Setapp](https://setapp.com/)  	|  	|  最佳应用集合，订阅后Setapp 里所有 App 免费	|  订阅制	|
 |  	| [CleanMyMac](https://macpaw.com/cleanmymac) ,[Setapp](https://setapp.com/apps/cleanmymac-x) 	|  清理大师	| ¥281	|
 |  	| [Gemini](https://macpaw.com/zh/store/gemini) ,[Setapp](https://setapp.com/apps/gemini) 	|  智能重复文件查找程序	| ¥141	|
@@ -35,7 +36,6 @@
 |  	| [Magnet](https://itunes.apple.com/cn/app/magnet/id441258766?mt=12) 	| 分屏,用快捷键无敌 	| Free	|
 |  	| [Usage](https://www.mediaatelier.com/Usage/) 	| 时间跟踪，记录应用使用时长 	| Free	|
 |  	| [Flux](https://justgetflux.com/) 	| 保护眼睛 	|  Free	|
-|  	|  	|  	|  	|
 |  	|  	|  	|  	|
 |  	|  	|  	|  	|
 
