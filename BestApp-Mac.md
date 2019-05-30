@@ -13,7 +13,6 @@
 |  	| [iPic](https://itunes.apple.com/cn/app/ipic-image-upload-tool/id1101244278?l=en&mt=12)	| 图床管理 	| ¥60.00	|
 |  	| [TotalFinder](https://totalfinder.binaryage.com/) 	| 让 Finder 更好用 	|  	|
 |   | [XtraFinder](https://www.trankynam.com/xtrafinder/)  | add Tabs, Dual Panel, and numerous features to Mac's native Finder | $4.99  |
-|  	| [TotalFinder](https://totalfinder.binaryage.com/) 	| 让 Finder 更好用 	|  	|
 |   | [MacID](https://macid.co/) | 用手指解锁 Mac，需要配合 iOS app | $17.99 |
 |  	| [百度网盘](https://pan.baidu.com/download#pan) 	|  	|  Free	|
 | [Setapp](https://setapp.com/)  	|  	|  最佳应用集合，订阅后Setapp 里所有 App 免费	|  订阅制	|
