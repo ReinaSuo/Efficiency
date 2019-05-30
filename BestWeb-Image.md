@@ -28,3 +28,14 @@
  
   * [千库网_免费png图片背景素材下载,做设计不抠图](http://588ku.com/)
 
+
+# 优秀配色
+
+  * [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
+  * [NIPPON COLORS - 日本の伝統色](http://nipponcolors.com/) 日本配色
+  * [Color Wheel - Color Calculator | Sessions College](https://www.sessions.edu/color-calculator/)
+  * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+  * [Color](https://color.adobe.com/create)
+  
+  
+  
