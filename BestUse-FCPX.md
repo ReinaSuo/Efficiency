@@ -7,15 +7,15 @@
 
 ### 新建资源库 Create new event：option+N
 * 新建事件 Create new project：⌘ + N 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fucglnhuj31c00u0qv7.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fucglnhuj31c00u0qv7.jpg)
 * 命名
 * 自定义：1080*1920，30p
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fugsqzglj31oe0u0npe.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fugsqzglj31oe0u0npe.jpg)
 
 
 ### 导入素材：视频，音频，图像
 * ⌘ + I
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fulnftkbj31340u0x6p.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fulnftkbj31340u0x6p.jpg)
 
   
 ### 剪辑（行尾是热键）
@@ -27,21 +27,21 @@
 
 * 封面题目字体
   * 添加题目
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvdir22pj31di0u0npe.jpg?imageView2/2/w/50)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvdir22pj31di0u0npe.jpg)
 
   * 封面用过两种。放在正中间，两边留白，遮罩可以不要。尽量不要挡住脸，如图错误示范
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvsqjau4j30es0qeqfp.jpg?imageView2/2/w/50)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvsqjau4j30es0qeqfp.jpg)
 
   * 放在三分之一处
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fweedhy2j30sm1eknpd.jpg?imageView2/2/w/50)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fweedhy2j30sm1eknpd.jpg)
 
   * 长的分三行，短的分两行，词组尽量放在一行
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvnsafdqj30ku112q46.jpg?imageView2/2/w/50)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvnsafdqj30ku112q46.jpg)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvorcqalj30ku112t9o.jpg?imageView2/2/w/50)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvorcqalj30ku112t9o.jpg)
 
 * 全视频声音小处（说明没说话）切开，B
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fuqrk9bjj30u013b4qp.jpg?imageView2/2/w/50)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fuqrk9bjj30u013b4qp.jpg)
 
 * 调整：没说话的空隙处全切掉，A 
 
@@ -50,15 +50,15 @@
 * 整体听一遍，有没有不顺耳处，另改
 
 * 字幕：最后加字幕，每一句都要加！！！
-  * 1. 放在画面三分之一的位置，这样就不会被系统下方画面遮挡。
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw9w5l6hj30sk1ewqv5.jpg?imageView2/2/w/50)
+  * 放在画面三分之一的位置，这样就不会被系统下方画面遮挡。
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw9w5l6hj30sk1ewqv5.jpg)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw4w8999j30n01br4qp.jpg?imageView2/2/w/50)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw4w8999j30n01br4qp.jpg)
 
-  * 2. 可以加遮罩，这样就不需要给字体教描边。两种都可以。
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fwc78qq1j30sk1ewnpd.jpg?imageView2/2/w/50)
+  * 可以加遮罩，这样就不需要给字体教描边。两种都可以。
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fwc78qq1j30sk1ewnpd.jpg)
 
-  * 3. 可以加可爱小字体作幽默辅助。
+  * 可以加可爱小字体作幽默辅助。
 
 * 结尾：添加牙齿闪亮的节点。素材拷给 @萌姐
 
