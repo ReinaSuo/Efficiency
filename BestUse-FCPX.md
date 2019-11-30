@@ -15,7 +15,6 @@
 
 ### 导入素材：视频，音频，图像
 * ⌘ + I
-
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fulnftkbj31340u0x6p.jpg?imageView2/2/w/400)
 
   
@@ -28,26 +27,22 @@
 
 * 封面题目字体
   * 1.添加题目
-
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvdir22pj31di0u0npe.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvdir22pj31di0u0npe.jpg?imageView2/2/w/50)
 
   *  2. 封面用过两种。放在正中间，两边留白，遮罩可以不要。尽量不要挡住脸，如图错误示范
- 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvsqjau4j30es0qeqfp.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvsqjau4j30es0qeqfp.jpg?imageView2/2/w/100)
 
 放在三分之一处
-
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fweedhy2j30sm1eknpd.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fweedhy2j30sm1eknpd.jpg?imageView2/2/w/50)
 
   * 3.长的分三行，短的分两行，词组尽量放在一行
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvnsafdqj30ku112q46.jpg?imageView2/2/w/50)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvnsafdqj30ku112q46.jpg?imageView2/2/w/400)
-
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvorcqalj30ku112t9o.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvorcqalj30ku112t9o.jpg?imageView2/2/w/100)
 
 * 全视频声音小处（说明没说话）切开，B
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fuqrk9bjj30u013b4qp.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fuqrk9bjj30u013b4qp.jpg?imageView2/2/w/100)
 
 * 调整：没说话的空隙处全切掉，A 
 
@@ -58,13 +53,13 @@
 * 字幕：最后加字幕，每一句都要加！！！
   * 1. 放在画面三分之一的位置，这样就不会被系统下方画面遮挡。
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw9w5l6hj30sk1ewqv5.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw9w5l6hj30sk1ewqv5.jpg?imageView2/2/w/100)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw4w8999j30n01br4qp.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw4w8999j30n01br4qp.jpg?imageView2/2/w/100)
 
   * 2. 可以加遮罩，这样就不需要给字体教描边。两种都可以。
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fwc78qq1j30sk1ewnpd.jpg?imageView2/2/w/400)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fwc78qq1j30sk1ewnpd.jpg?imageView2/2/w/100)
 
   * 3. 可以加可爱小字体作幽默辅助。
 
