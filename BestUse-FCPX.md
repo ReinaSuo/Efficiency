@@ -4,17 +4,15 @@
 ↓↓↓
 [【FCPX简易教程】 上完课还带你做练习题的那种 （去除了干扰听课的bgm）_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av13322032?from=search&seid=13748969167424375892)
 
+
 ### 新建资源库 Create new event：option+N
 * 新建事件 Create new project：⌘ + N 
-
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fucglnhuj31c00u0qv7.jpg)
-
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fucglnhuj31c00u0qv7.jpg?imageView2/2/w/400)
 * 命名
 * 自定义：1080*1920，30p
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fugsqzglj31oe0u0npe.jpg?imageView2/2/w/400)
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fugsqzglj31oe0u0npe.jpg)
 
-    
 ### 导入素材：视频，音频，图像
 * ⌘ + I
 
@@ -28,11 +26,12 @@
 
 * 封面：整体看一遍，找一处阳光（惹人喜欢）微笑的静帧做封面，add freeze frame，放在开头，25 帧 = 1s，创建静帧 option + F
 
-* 封面题目字体：1.添加题目
+* 封面题目字体
+  * 1.添加题目
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvdir22pj31di0u0npe.jpg)
 
- 2. 封面用过两种。放在正中间，两边留白，遮罩可以不要。尽量不要挡住脸，如图错误示范
+  *  2. 封面用过两种。放在正中间，两边留白，遮罩可以不要。尽量不要挡住脸，如图错误示范
  
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvsqjau4j30es0qeqfp.jpg)
 
@@ -40,7 +39,7 @@
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fweedhy2j30sm1eknpd.jpg)
 
-3.长的分三行，短的分两行，词组尽量放在一行
+  * 3.长的分三行，短的分两行，词组尽量放在一行
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fvnsafdqj30ku112q46.jpg)
 
@@ -56,17 +55,18 @@
 
 * 整体听一遍，有没有不顺耳处，另改
 
-* 字幕：最后加字幕，每一句都要加！！！1. 放在画面三分之一的位置，这样就不会被系统下方画面遮挡。
+* 字幕：最后加字幕，每一句都要加！！！
+  * 1. 放在画面三分之一的位置，这样就不会被系统下方画面遮挡。
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw9w5l6hj30sk1ewqv5.jpg)
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fw4w8999j30n01br4qp.jpg)
 
-2. 可以加遮罩，这样就不需要给字体教描边。两种都可以。
+  * 2. 可以加遮罩，这样就不需要给字体教描边。两种都可以。
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9fwc78qq1j30sk1ewnpd.jpg)
 
-2. 可以加可爱小字体作幽默辅助。
+  * 3. 可以加可爱小字体作幽默辅助。
 
 * 结尾：添加牙齿闪亮的节点。素材拷给 @萌姐
 
