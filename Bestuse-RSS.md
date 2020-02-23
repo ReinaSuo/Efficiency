@@ -1,4 +1,4 @@
-# Bestuse-RSS
+# BestUse-RSS
 
 从小白到现在利用 RSS 提高效率，已经 2 年，多亏前辈分享，下面整理出帮助过我的分享帖，入门足以。
 
@@ -35,5 +35,5 @@
 [Reabble入门](https://reabble.com/help) 中分享了 Reabble 精选 RSS 源，下载后在 Reeder4（其他软件皆可）中导入 opml 即可；
 
 ## CHANGELOG
-2020-02-24 01:08 Reina 创建
+2020-02-24 01:09 Reina 创建
 
