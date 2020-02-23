@@ -16,6 +16,7 @@
 |   | [Reeder4](https://apps.apple.com/cn/app/reeder-4/id1449412482?l=en&mt=12) | RSS 信息聚合 | ¥68 |
 |   | [PPDuck](http://ppduck.com/) | 图片压缩神器，帮你的图片减减肥 | ¥69.9 |
 |  	| [百度网盘](https://pan.baidu.com/download#pan) 	|  	|  Free	|
+|  	| [幕享](https://letsview.com/zh/)  | 全平台全设备投屏共享 	|  Free	|
 | [Setapp](https://setapp.com/)  	|  	|  最佳应用集合，订阅后Setapp 里所有 App 免费	|  订阅制	|
 |  	| [CleanMyMac](https://macpaw.com/cleanmymac) ,[Setapp](https://setapp.com/apps/cleanmymac-x) 	|  清理大师	| ¥281	|
 |  	| [Gemini](https://macpaw.com/zh/store/gemini) ,[Setapp](https://setapp.com/apps/gemini) 	|  智能重复文件查找程序	| ¥141	|
