@@ -15,29 +15,29 @@
 
 
 ## RSS 是什么
-[RSS](https://zh.wikipedia.org/wiki/RSS) —— 维基百科，自由的百科全书； 
+[RSS](https://zh.wikipedia.org/wiki/RSS) — 维基百科，自由的百科全书； 
 
-[当我们谈论RSS时，我们谈论些什么？ ](https://www.runningcheese.com/rss-feed) —— 奔跑中的奶酪
+[当我们谈论RSS时，我们谈论些什么？](https://www.runningcheese.com/rss-feed) - 奔跑中的奶酪
 
-[后 RSS 时代生存小册子](http://hit1024.com/post/2017-12-25)—— Code iteration 
+[后 RSS 时代生存小册子](http://hit1024.com/post/2017-12-25) - Code iteration 
 
-[论 RSS 的「复兴」 - 少数派](https://sspai.com/post/43998) 
+[论 RSS 的「复兴」](https://sspai.com/post/43998)  - 少数派
 
-[是 RSS 复兴的时候了（翻译 ) | fengkx's Blog](https://www.fengkx.top/post/translation-of-rss-revival/) —— fengkx's Blog
+[是 RSS 复兴的时候了（翻译 )](https://www.fengkx.top/post/translation-of-rss-revival/) - fengkx's Blog
 
 
 
 ## RSS 怎么用
 
-建立学习体系：[在线阅读处理流程：从需求、到方法、再到工具 - 少数派](https://sspai.com/post/36795)
+建立学习体系：[在线阅读处理流程：从需求、到方法、再到工具](https://sspai.com/post/36795) - 少数派
 
-搭配工具：[用 GTD 的方法结束稍后读 - 少数派](https://sspai.com/post/33933) 
+搭配工具：[用 GTD 的方法结束稍后读](https://sspai.com/post/33933) - 少数派
 
 
 ## RSS 工具
 
 ### 先说结论，订阅服务 inoreader ，价格功能最能打
-[Inoreader 使用详解：强力 RSS 信息捕获助手 - 少数派](https://sspai.com/post/58041)，里面从基础的「添加订阅源」，到如何「过滤文章」，有规则的「整理」，「阅读」的正确姿势，深入操作「自动化」，「套餐选择」建议，应有尽有可按需跳跃阅读。
+[Inoreader 使用详解：强力 RSS 信息捕获助手](https://sspai.com/post/58041) - 少数派，里面从基础的「添加订阅源」，到如何「过滤文章」，有规则的「整理」，「阅读」的正确姿势，深入操作「自动化」，「套餐选择」建议，应有尽有可按需跳跃阅读。
 
 在整理部分，少数派的文件夹分类给了我启发  
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcdh43eo7yj30oc0gsn1f.jpg)  
@@ -49,7 +49,7 @@
 一图胜千言，在此基础上学习后，还是那三个维度，分类逻辑是这样  
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcdrs1v3soj30kg0jw405.jpg)
 
-命名规则里数字是重头戏，使用了我一贯的工作方法：数字x（重要程度）x（专注程度）+学科分类  
+命名规则里数字是重头戏，使用了我一贯的工作方法：数字 x（重要程度）x（专注程度）+ 学科分类  
 ![](https://tva1.sinaimg.cn/large/00831rSTly1gcdrphzkxfj30du0h075m.jpg)
 
 注意：
@@ -62,14 +62,14 @@
 
 
 ### 不死心的看测评
-[2018 年主流 RSS 服务选哪家？Feedly、Inoreader 和 NewsBlur 全面横评 - 少数派](https://sspai.com/post/44420)
+[2018 年主流 RSS 服务选哪家？Feedly、Inoreader 和 NewsBlur 全面横评](https://sspai.com/post/44420) - 少数派
 
 ### 寻找你的 RSS 源
 [万物皆可 RSSHub](https://docs.rsshub.app/)，可查找微信、BiliBili 等，配合 Chrome extension 使用更佳。
 
 ### 客户端选 Reeder  没错
-各类优秀阅读器：[Mac 上的 RSS 阅读工具，你有这些好看实用的选择 - 少数派](https://sspai.com/post/55050) 
-Reeder 使用手册：[一切只为给你更好的阅读体验，老牌 RSS 阅读器 Reeder 更新 4.0 - 少数派 Microhoo](https://sspai.com/post/54241) 
+各类优秀阅读器：[Mac 上的 RSS 阅读工具，你有这些好看实用的选择](https://sspai.com/post/55050)  - 少数派
+Reeder 使用手册：[一切只为给你更好的阅读体验，老牌 RSS 阅读器 Reeder 更新 4.0](https://sspai.com/post/54241)  - 少数派 Microhoo
 
 
 
@@ -80,7 +80,7 @@ Reeder 使用手册：[一切只为给你更好的阅读体验，老牌 RSS 阅�
 
 
 ## CHANGELOG
-
+* 200323 17:45 Reina fix typo
 * 200318 23:43 Reina 修改文件名称
 * 200302 17:17 Reina 修改文件名称
 * 200301 19:18 Reina 修改图片格式
