@@ -126,5 +126,5 @@ e.g. 「我们可以约定 DDL 之前提交文件吗？」是请求
 
 
 ## CHANGELOG
-
-200315 09:54 Reina 增补目录 Grammar 
+* 200324 11:32 Reina 迁移到文件包 CONTENT
+* 200315 09:54 Reina 增补目录 Grammar 

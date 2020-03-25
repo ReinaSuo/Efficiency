@@ -26,5 +26,5 @@
   * [京价保 - 京东价保助手 ](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd?hl=zh-CN) ，自动签到赚京豆，自动查询保价等等，很好用，得了便宜记得给作者打赏呀。
   
 ## CHANGELOG
-
+* 200324 11:32 Reina 迁移到文件包 CONTENT
 * 200318 15:15 Reina 增补说明
