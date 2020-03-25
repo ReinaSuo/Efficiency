@@ -1,18 +1,34 @@
 # Reina 环保守则
-新的一年，新的标准。
+Reina 的个人环保守则，新的一年，新的标准要求自己。
+
+现在学习阶段，每年倒序更新，等哪天不更了，说明没啥新习惯。
+
+> 环保不是积分制，是勿以善小而不为。
+
+这是开始学习环保前一定要记住的事情。
+
+**友情提示**：不必一步到位，[减塑加素](#待添加链接) 是一个过程。
+
  * [20200101](#20200101)
  * [20190101](#20190101)
  * [20180806](#20180806)
+
 ## 20200101
-❗️根据 [环保生活指导手册](HbVIPspirit.md) 操作
+❗️根据 [环保生活指导手册](HbVIPspirit.md) 制定，相关见 [环保学习资料索引](ResVIP.md)。
 
 ### 衣
-* 不买衣服  
+* 不买衣服 
+> Ethics + Aesthetics = Sustainable Fashion 
+
 * 不买包包  
+> Fast fashion isn’t free. Someone, somewhere, is paying. —— Lucy Siegle
+
 * 不买首饰  
 * 不买鞋子  
 * 不买袜子  
 * 回收旧衣物，选择棉质、亚麻、丝绸、天然纤维材质和浅色衣物  
+> Care for your clothes, like the good friends they are. —— Joan Crawford 
+
 * 多穿不用烫仍然得体的衣服，例如Ｔ恤  
 * 旅行不用一次性内衣裤、旅行装洗发露、沐浴液  
 
@@ -188,4 +204,5 @@
 - [x] 带可重复使用的布袋
 
 ## CHANGELOG
+* 200324 11:32 Reina 添加头部说明并迁移到文件包 CONTENT
 * 200317 19:16 Reina 创建
