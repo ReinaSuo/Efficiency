@@ -32,6 +32,6 @@ App 的教程很多，只写了两个「教程」，为自己梳理、查询、�
 4. 2018 年作为 HC 青年领袖计划的教练，重温了[《非暴力沟通》](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbNonviolentCommunication.md)，短短一篇读书笔记。
 
 ## CHANGELOG
-* 
-* 200325 21:00 Reina 更换链接
-* 200320 15:06 Reina 创建
+* 200329 23:48 Reina add links of ChromeApp and fix typo
+* 200325 21:00 Reina replace links
+* 200320 15:06 Reina create
