@@ -16,11 +16,14 @@
 App 的教程很多，只写了两个「教程」，为自己梳理、查询、以教为学。其他工具如果有功夫，会慢慢总结贴出来。但看官方手册是最好的。
 	* [FCPX](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbFCPX.md)，这个是为公司写的，不适合所有情况。
 	* [怎么用 RSS](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbBestUseRSS.md)，这个更多的是资料，梳理一下，入门足够了。
-2. Chrome 可玩性很高，[Chrome 高效插件](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxBestPlugin4Chrome.md)，省时省力。
-3. [视频制作基础技能清单](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxVideoBasic.md)，2018 年爱上剪辑，整理一份视频剪辑入门的学习资料。
-4. 普通人做点设计不容易，可能你也需要 [图片处理工具](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxBestWeb4ImageDesign.md)。
+1. Chrome 可玩性很高，不用插件浪费了
+    * 我喜欢用的 [Chrome 高效插件](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxBestPlugin4Chrome.md)，省时省力。让 Chrome 更好用
+    * 🌈谷粒总结得 Chrome 插件说明书：[ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+2. [视频制作基础技能清单](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxVideoBasic.md)，2018 年爱上剪辑，整理一份视频剪辑入门的学习资料。
+3. 普通人做点设计不容易，可能你也需要 [图片处理工具](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxBestWeb4ImageDesign.md)。
+4. 在线工具秘籍：[OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
-这些工具给我幸福感，而且都是不需要特殊技能就能学会，就能拥有快乐，非常感谢创作者。
+💡这些工具给我幸福感，而且都是不需要特殊技能就能学会，就能拥有快乐，非常感谢创作者。
 
 ## 遣有涯之生
 1. [环保资讯](https://github.com/ReinaSuo/TopLife/blob/master/IdxV%2BI-P.md)，收集信息是学习的第一步，收集完分享给你，扩大我的快乐。
@@ -29,5 +32,6 @@ App 的教程很多，只写了两个「教程」，为自己梳理、查询、�
 4. 2018 年作为 HC 青年领袖计划的教练，重温了[《非暴力沟通》](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbNonviolentCommunication.md)，短短一篇读书笔记。
 
 ## CHANGELOG
+* 
 * 200325 21:00 Reina 更换链接
 * 200320 15:06 Reina 创建
