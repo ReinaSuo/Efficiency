@@ -12,10 +12,11 @@
 
 ## 工欲善其事
 在已知范围内选择最好的工具，不要与自己妥协，因为这种优雅的感觉无与伦比。
-1. 每天用电脑的我，必备的效率工具 [Mac 优秀 App](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxBestApp4Mac.md)
-App 的教程很多，只写了两个「教程」，为自己梳理、查询、以教为学。其他工具如果有功夫，会慢慢总结贴出来。但看官方手册是最好的。
-	* [FCPX](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbFCPX.md)，这个是为公司写的，不适合所有情况。
-	* [怎么用 RSS](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbBestUseRSS.md)，这个更多的是资料，梳理一下，入门足够了。
+1. 每天用电脑的我，必备的效率工具
+    * [Mac 优秀 App](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxBestApp4Mac.md)，我必备的 App，更多及其他平台 App 见 [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App)
+    * App 的教程很多，只写了两个「教程」，为自己梳理、查询、以教为学。其他工具如果有功夫，会慢慢总结贴出来。看官方手册是最好的。
+    	* [FCPX](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbFCPX.md)，这个是为公司写的，不适合所有情况。
+    	* [怎么用 RSS](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/HbBestUseRSS.md)，这个更多的是资料，梳理一下，入门足够了。
 1. Chrome 可玩性很高，不用插件浪费了
     * 我喜欢用的 [Chrome 高效插件](https://github.com/ReinaSuo/TopLife/blob/master/CONTENT/IdxBestPlugin4Chrome.md)，省时省力。让 Chrome 更好用
     * 🌈谷粒总结得 Chrome 插件说明书：[ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
