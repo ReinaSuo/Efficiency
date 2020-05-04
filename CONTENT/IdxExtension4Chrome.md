@@ -3,7 +3,7 @@
 ### Safety
   * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)，加密网络浏览，自动使用 HTTPS 连接访问站点，更加安全。
   * [百度药丸 Baidu Capsule - Chrome 网上应用店](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%8D%AF%E4%B8%B8-baidu-capsule/ngiclcoldiplnjcafhjkacjcmdidcmjp)，屏蔽百度推广，阻止百度追踪，美化首页（需退出百度账号）。
-  * 
+  
 ### Study
   * [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh-CN)
   * [彩云小译](https://chrome.google.com/webstore/detail/lingocloud-web-translatio/jmpepeebcbihafjjadogphmbgiffiajh)，网页翻译插件，快捷键一键翻译全文。
@@ -27,6 +27,7 @@
   * [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)，捕捉网页截图
   * [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc)，允许在所有网站复制文字。
   * [鼠标点击特效 (๑•́ ∀ •̀๑)](https://chrome.google.com/webstore/detail/mouse-click-effects-%E0%B9%91%E2%80%A2%CC%81-%E2%88%80/ljoolhajdkmjfneghpfiofogllcninii)，(๑•́ ∀ •̀๑) 好玩的鼠标点击特效。
+  * [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/related)，为中英文混排文加入盘古直白。
   
 ### Productivity  
   * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related)，禁广告。
@@ -38,8 +39,10 @@
   * [京价保](https://chrome.google.com/webstore/detail/%E4%BA%AC%E4%BB%B7%E4%BF%9D-%E4%BA%AC%E4%B8%9C%E4%BB%B7%E4%BF%9D%E5%8A%A9%E6%89%8B/gfgkebiommjpiaomalcbfefimhhanlfd?hl=zh-CN)，京东价保助手，自动签到赚京豆，自动查询保价等等，很好用，得了便宜记得给作者打赏呀。
   * [Tabagotchi by Breather](https://chrome.google.com/webstore/detail/tabagotchi-by-breather/ojahbhfflnbaiddhnkgeccgopmedjjen/related)，少开标签减少消耗
   
-## CHANGELOG
-* 200330 17:30 Reina fix typo and add new links of extension
-* 200328 19:51 Reina change name and add new links of extension
-* 200324 11:32 Reina move docs to CONTENT
-* 200318 15:15 Reina 增补说明
+## ChangeLog
+
+- 200504 15:05 Reina 添加新插件
+- 200330 17:30 Reina 排版，添加新插件
+- 200328 19:51 Reina 修改名称，添加新插件
+- 200324 11:32 Reina 文件移至 CONTENT
+- 200318 15:15 Reina 增补说明
