@@ -41,8 +41,9 @@
 |  	| [Usage](https://www.mediaatelier.com/Usage/) 	| 时间跟踪，记录应用使用时长 	|  Free	|
 |  	| [Flux](https://justgetflux.com/) 	| 保护眼睛 	|  Free	|
 |  	| [Motrix](https://motrix.app/)	|  HTTP、百度网盘下载等	|  Free	|
-|  	|  	|  	|  	|
+|  	|  [CleanShot X for Mac](https://cleanshot.com/)	|  截屏、录制视频和 GIF 	|  	|
 
 # CHANGELOG
-* 200324 11:32 Reina 迁移到文件包 CONTENT
-* 200302 17:46 Reina 修改名称
+- 200805 15:08 Reina 增加 App CleanShot
+- 200324 11:32 Reina 迁移到文件包 CONTENT
+- 200302 17:46 Reina 修改名称
