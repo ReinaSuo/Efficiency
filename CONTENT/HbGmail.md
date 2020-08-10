@@ -1,5 +1,4 @@
 # 调教 Gmail 
-[[_TOC_]]
 
 ## Before all
 Chrome 使用手册 **链接待添加**
@@ -20,7 +19,7 @@ Chrome 使用手册 **链接待添加**
     - 回复完的邮件可以直接归档
     - 保持 Inbox 干净
 
-<div><img width="400" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghluudu7w0j32360u0n6f.jpg"></div>
+<div><img width="800" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghluudu7w0j32360u0n6f.jpg"></div>
 
 5. Nudges
     - 轻推系统判断可能需要跟进的邮件
@@ -34,7 +33,7 @@ Chrome 使用手册 **链接待添加**
 7. Keyboards Shortcuts
 8. Button Labels
 
-<div><img width="400" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghlvbcdj93j31q70u0aks.jpg"></div>
+<div><img width="800" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghlvbcdj93j31q70u0aks.jpg"></div>
 
 
 ## Advanced
@@ -42,14 +41,14 @@ Chrome 使用手册 **链接待添加**
 1. Auto-advance
     - 处理完当前邮件后，自动进入下一封邮件，而不是退回 Inbox
     - 在 `General` 可以具体设置
-    <div><img width="400" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghlv3o5awej313k056gmq.jpg"></div>
+    <div><img width="800" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghlv3o5awej313k056gmq.jpg"></div>
 2. Unread message icon
 3. Custom keyboard shortcuts
     - 一定要自定义快捷键，修改成直觉可以记住的键
     - 在`Custom keyboard shortcuts` 一行点击 `Enable`
     - 保存后，顶部会出现新栏目 `Keyboard Shortcuts` 
 
-<div><img width="400" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghltggswfwj31lc0u0dpe.jpg"></div>
+<div><img width="800" src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghltggswfwj31lc0u0dpe.jpg"></div>
 
 ### Keyboard Shortcuts
 - 设置完 `Advanced`，重新进入 `Settings`  
