@@ -17,6 +17,7 @@
 |   | [PPDuck](http://ppduck.com/) | 图片压缩神器，帮你的图片减减肥 | ¥69.9 |
 |  	| [百度网盘](https://pan.baidu.com/download#pan) 	|  	|  Free	|
 |  	| [幕享](https://letsview.com/zh/)  | 全平台全设备投屏共享，经常用他在电脑上看手机上的电子书	|  Free	|
+|  	|  [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)	|  替代原生 Terminal，更好用 	|  Free	|
 | [Setapp](https://setapp.com/)  	|  	|  最佳应用集合，订阅后 Setapp 里所有 App 免费	|  订阅制	|
 |  	| [CleanMyMac](https://macpaw.com/cleanmymac) ,[Setapp](https://setapp.com/apps/cleanmymac-x) 	|  清理大师	| ¥281	|
 |  	| [Gemini](https://macpaw.com/zh/store/gemini) ,[Setapp](https://setapp.com/apps/gemini) 	|  智能重复文件查找程序	| ¥141	|
@@ -40,10 +41,10 @@
 |  	| [Magnet](https://itunes.apple.com/cn/app/magnet/id441258766?mt=12) 	| 分屏，用快捷键无敌 	|  Free	|
 |  	| [Usage](https://www.mediaatelier.com/Usage/) 	| 时间跟踪，记录应用使用时长 	|  Free	|
 |  	| [Flux](https://justgetflux.com/) 	| 保护眼睛 	|  Free	|
-|  	| [Motrix](https://motrix.app/)	|  HTTP、百度网盘下载等	|  Free	|
 |  	|  [CleanShot X for Mac](https://cleanshot.com/)	|  截屏、录制视频和 GIF 	|  	|
-
+|  	| [Motrix](https://motrix.app/)	|  HTTP、百度网盘下载等	|  Free	|
 # CHANGELOG
-- 200805 15:08 Reina 增加 App CleanShot
-- 200324 11:32 Reina 迁移到文件包 CONTENT
-- 200302 17:46 Reina 修改名称
+- 200818 00:28 Reina add App iTerm2
+- 200805 15:08 Reina add App CleanShot
+- 200324 11:32 Reina move to CONTENT
+- 200302 17:46 Reina fix the name of doc
