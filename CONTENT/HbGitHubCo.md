@@ -1,4 +1,4 @@
-# Git 协作
+# Git 最简协作
 [[_TOC_]]
 
 ##  背景  
@@ -73,6 +73,9 @@
 
 ## Ref
 - [Git remove a file from a branch, keep it in the master - Stack Overflow](https://stackoverflow.com/questions/37422221/git-remove-a-file-from-a-branch-keep-it-in-the-master)
+- [Wiki 创建指南](https://gitlab.com/101camp/10py/tasks/-/wikis/HandBooks/HbUsageWiki)
+- [Git 使用全景](https://gitlab.com/101camp/10py/tasks/-/wikis/How2/How2UseGit)
+- [HbUsageWiki · Wiki · 101Camp / 10py / tasks · GitLab](https://gitlab.com/101camp/10py/tasks/-/wikis/HandBooks/HbUsageWiki)
 
 ## ChangeLog
 - 210330 14:37 0.1h Reina 从 [[我们的 Git 协同流程 · GitLab](https://gitlab.com/101camp/10py/tasks/-/issues/39) 迁移至 GitHub
