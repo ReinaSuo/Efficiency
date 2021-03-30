@@ -35,7 +35,7 @@
 - [Charles Moore: Seas of plastic | TED Talk](https://www.ted.com/talks/charles_moore_seas_of_plastic)
 
 ### 影片
-- [WALL·E 机器人总动员](https://www.imdb.com/title/tt0910970/?ref_=fn_al_tt_1) ，腾讯视频可以观看，故事有趣，引人深思，
+- [WALL·E 机器人总动员](https://www.imdb.com/title/tt0910970/?ref_=fn_al_tt_1) ，腾讯视频可以观看，故事有趣，引人深思。
 播放地址：[塑料](https://www.bilibili.com/bangumi/play/ep255322)
 - [塑料星球](https://movie.douban.com/subject/4602775/) ，播放地址： [塑料星球](https://www.bilibili.com/video/av35318756/)
 - [塑料海洋](https://www.bilibili.com/video/av18182617)，英国 2016 年的纪录片。
@@ -43,13 +43,12 @@
 - [塑料](https://www.bilibili.com/bangumi/media/md4309302/?from=search&seid=17424402175710475766)
 
 ### 短片
-- 联合国宣传片 [《塑料海洋》](https://www.bilibili.com/video/av30377520/?spm_id_from=333.788.videocard.0)，其中解剖鸟类画面有不适感，可能不适合成长心连心的场域。但是真实，有震慑感。
-- 泰国讽刺性短片[《人类，你为什么不吃塑料袋？》](https://www.bilibili.com/video/av55139039/)
-- 泰国环保广告[《被丢掉的记忆》](https://www.bilibili.com/video/av77800831?from=search&seid=15347414333804633620)，宣传垃圾分类。
-- 获奖 CG 短片[《被污染的水下世界》](https://www.bilibili.com/video/av34731982/?spm_id_from=333.788.videocard.0)，有点恐怖。
+- 联合国宣传片 [《塑料海洋》](https://www.bilibili.com/video/av30377520/?spm_id_from=333.788.videocard.0)，其中解剖鸟类画面有不适感，但真实，有震慑感。
+- 泰国讽刺性短片 [《人类，你为什么不吃塑料袋？》](https://www.bilibili.com/video/av55139039/)
+- 泰国环保广告 [《被丢掉的记忆》](https://www.bilibili.com/video/av77800831?from=search&seid=15347414333804633620)，宣传垃圾分类。
+- 获奖 CG 短片 [《被污染的水下世界》](https://www.bilibili.com/video/av34731982/?spm_id_from=333.788.videocard.0)，有点恐怖。
 
-### 资讯
-
+### 反常识资讯
 - [全面禁止塑料袋，非洲国家为什么能领先世界](https://zhuanlan.zhihu.com/p/69203763)
 - [我去了完全禁止塑料袋的国家，这里警察每月赶你收拾家](https://zhuanlan.zhihu.com/p/88210430)
 
